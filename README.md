@@ -1,2 +1,2 @@
 # Fan-Kontrol
-Denem
+Deneme
